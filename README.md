@@ -1,3 +1,3 @@
 # Code-Plaground
 
-I Will put here a project that's I build while learning how to code and some coding challeng :)
+I will put here what I will do while learning programming and some small projects and solutions to programming challenges :)
